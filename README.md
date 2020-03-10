@@ -10,4 +10,4 @@ Object Oreinted Programming
 
 Enterprise Computing
 
-  Assignment 3: Basic GUI that simulates an E-store by looking up books from an inventory tesxt file.
+  Assignment 3: Basic GUI that simulates an E-store by looking up books from an inventory text file.
