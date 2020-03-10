@@ -11,3 +11,5 @@ Object Oreinted Programming
 Enterprise Computing
 
   Assignment 3: Basic GUI that simulates an E-store by looking up books from an inventory text file.
+  
+  Assignment 4: A GUI that allows users to connect to MySQL, send SQL commands, and see the resulting outputs. 
