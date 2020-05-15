@@ -13,3 +13,6 @@ Enterprise Computing
   - Assignment 3: Basic GUI that simulates an E-store by looking up books from an inventory text file.
   
   - Assignment 4: A GUI that allows users to connect to MySQL, send SQL commands, and see the resulting outputs. 
+  
+  - Assignment 5: A webapp that uses Java Servlets to connect to MySQL to send commands and then display the results on the web page.
+                  Also performs some business logic when certian requirements are met, the database is updated.
