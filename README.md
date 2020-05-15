@@ -4,12 +4,12 @@ This repository is used as an educational reference to programs that were done i
 
 Object Oreinted Programming 
 
-  Assignment 1: Euclid's Algotihm implementation.
+  - Assignment 1: Euclid's Algotihm implementation.
 
-  Assignment 2: String manipulation, specifically splitting sentences into tokens as well as determining the shingles in a sentence.
+  - Assignment 2: String manipulation, specifically splitting sentences into tokens as well as determining the shingles in a sentence.
 
 Enterprise Computing
 
-  Assignment 3: Basic GUI that simulates an E-store by looking up books from an inventory text file.
+  - Assignment 3: Basic GUI that simulates an E-store by looking up books from an inventory text file.
   
-  Assignment 4: A GUI that allows users to connect to MySQL, send SQL commands, and see the resulting outputs. 
+  - Assignment 4: A GUI that allows users to connect to MySQL, send SQL commands, and see the resulting outputs. 
