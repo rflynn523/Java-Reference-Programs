@@ -1,0 +1,12 @@
+/* CSS sheet to style the index page */
+/* The tags go along with the tags from the html page it is styling */
+
+h1{font-size:xx-large; color: white;}
+h2{font-size:xx-medium; font-weight: bold; color: white;}
+body{background-color:blue; font-size:xx-medium; text-align: center;}
+p{color:white;}
+textarea {font-size:xx-medium; background-color: black; color: lightgreen}
+input {font-size: xx-medium; background-color: black; color:yellow;}
+hr { display: block; margin-before: 0.5em; margin-after: 0.5em; margin-start: auto; margin-end: auto; overflow: hidden; border-style: inset; border-width: 1px;}
+div{border-collapse: collapse; border:1px solid black; }
+th {background_color: red; color:white}

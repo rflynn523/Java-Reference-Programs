@@ -1,0 +1,22 @@
+<web-app>
+  <!-- Acts as the road map for the web application -->
+  <display-name>Project 4 Ryan Flynn</display-name>
+  <description>
+    This is the web application for the project 4 assignment.
+    It will handle sql commands and get the results from MySQL.
+  </description>
+
+  <!-- Servlet Definitions -->
+  <servlet>
+    <servlet-name>Project4Servlet</servlet-name>
+    <description>
+      A servlet that connects to MySQL on the backend and then
+      displays it to the web page.
+    </description>
+    <servlet-class>Project4Servlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+      <servlet-name>Project4Servlet</servlet-name>
+      <url-pattern>/Project4Servlet</url-pattern>
+  </servlet-mapping>
+</web-app>
